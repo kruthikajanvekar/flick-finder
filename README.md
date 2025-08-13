@@ -4,7 +4,6 @@
 A machine learning-based recommendation engine that suggests movies to users based on their preferences, viewing history, and similarity to other movies or users.  
 This project demonstrates **collaborative filtering**, **content-based filtering**, and **hybrid approaches** for personalized recommendations.
 
----
 
 ## 📌 Features
 - **Content-Based Filtering** → Recommends movies similar to those the user liked before.
@@ -13,7 +12,6 @@ This project demonstrates **collaborative filtering**, **content-based filtering
 - **Search Functionality** → Search movies by title or genre.
 - **User Interface** (Optional) → Simple web app to interact with the recommendation engine.
 
----
 
 ## 🛠️ Tech Stack
 - **Python** (Core logic)
